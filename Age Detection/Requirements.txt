@@ -1,6 +1,6 @@
 ################################################################
 #
-# Python package requirements for the Driver-Drowsiness-Detection:
+# Python package requirements for the Age Detection:
 #
 # If you are using Anaconda then you can install all required
 # Python packages by running the following commands in a shell:
