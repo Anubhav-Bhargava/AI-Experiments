@@ -1,4 +1,4 @@
-##Image Segmentation
+# Image Segmentation
 
 This code segments the face and hair of persons in a given image
 
@@ -6,6 +6,6 @@ This code segments the face and hair of persons in a given image
 
     All dependencies are mentioned in Requirements.txt
 
-Algorithms
+# Algorithms
 
-I've used ANN layers for the segmentation
+I've used ANN layers for segmentation
