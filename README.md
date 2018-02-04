@@ -7,3 +7,6 @@ Age Detection of Indian Actors
 
 
 Image Segmentation using Auto-Encoders
+
+
+Credit Card Fraud Detection
