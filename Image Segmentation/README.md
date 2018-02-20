@@ -8,4 +8,4 @@ This code segments the face and hair of persons in a given image
 
 # Algorithms
 
-I've used ANN layers for segmentation
+I've used Auto Encoders for image segmentation
