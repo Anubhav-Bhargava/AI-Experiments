@@ -20,6 +20,6 @@ The code in the file [logo_classif_aug.ipynb](https://github.com/Anubhav-Bhargav
 is trained on a smaller dataset. It reaches a test accuracy of ~52% after training for 200 epochs
 
 While the code in the file [logo_classif_crop_aug.ipynb](https://github.com/Anubhav-Bhargava/AI-Experiments/blob/master/LOGO%20Classification/logo_classif_crop_aug.ipynb)
-is trained using on annotated images with bounding boxes of the logo instances in the image. There are multiple logo instances per class image.
+is trained on annotated images with bounding boxes of the logo instances in the image. There are multiple logo instances per class image.
 It reached a **test accuracy** of **~96%** after training for **150 epochs**.
 
