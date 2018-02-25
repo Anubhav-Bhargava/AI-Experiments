@@ -10,3 +10,6 @@ Image Segmentation using Auto-Encoders
 
 
 Credit Card Fraud Detection
+
+
+LOGO Classification
