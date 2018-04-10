@@ -18,5 +18,7 @@ The code reaches a test accuracy **~96%** after 30 epochs.
 
 To run the prediction on a new image just run the following command
 
->python evaluate.py --image image_path
+```
+python evaluate.py --image image_path
+```
 
