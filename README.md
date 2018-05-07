@@ -13,3 +13,6 @@ Credit Card Fraud Detection
 
 
 LOGO Classification
+
+
+Sentiment Analysis
